@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/discord/1107726482224197642?label=discord&color=9089DA&logo=discord&style=for-the-badge)](https://discord.gg/nAa5PyxubF)
 
 </div>
- 
+  
 ## Features 
 
 - **Automated Feedback URL** Only with the @ or URL of the victim, it'll do everything for you.
@@ -41,6 +41,7 @@ To run the program, follow these steps:
 ### for more info check [*changelog.md*](https://github.com/Sneezedip/Tiktok-Reporter/blob/main/changelog.MD)
 
 **Please note: This project is not intended for commercial use. It is provided for educational and personal use only.**
+
 
 
 
